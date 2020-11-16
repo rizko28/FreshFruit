@@ -19,7 +19,7 @@ Berikut beberapa fungsi dari projek ini
 
 1. Fungsi dari BucketEventListener adalah Sebagai tempat untuk handle event ketika action dijalankan berhasil (```void onSucceed```) atau gagal (```void onFailed```).
 2. Class Diagram 
-![Class Diagram](classdiagram.png)
+[Class Diagram](classdiagram.png)
 3. Pembahasan logika pemrogramannya logika yg terdapat pada aplikasiini adalah untuk memasukan buah ke keranjang dan misal kalo keranjang penuh akan ada pemberitahuan keranjang penuh.
 syntax nya 
 ```csharp
